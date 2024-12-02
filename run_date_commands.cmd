@@ -4,6 +4,6 @@
 cd /
 
 # Create the folder in the main directory
-mkdir "Folder with Azure pipeline"
+mkdir "Folder with Azure "
 
 echo "Folder 'Folder with Azure pipeline' created successfully in the main directory!"
